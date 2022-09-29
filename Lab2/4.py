@@ -1,0 +1,6 @@
+x = set()
+a = int(input())
+b = int(input())
+c = int(input())
+x.update([a,b,c])
+print(len(x))
