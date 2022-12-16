@@ -1,2 +1,2 @@
-from figures.circle import circle_area
-circle_area()
+from figures import circle_area
+print(circle_area())
